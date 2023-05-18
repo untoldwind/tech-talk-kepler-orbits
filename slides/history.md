@@ -1,6 +1,3 @@
----
-marp: true
----
 
 ## Brief history
 
@@ -35,3 +32,13 @@ Gravity: Attractive force between two masses $m_1$ and $m_2$ at distance $r$
 ... when one mass is much greater than the other that object can be considered stationary (Sun):
   $$ \frac{d^2 \vec{x}}{dt^2} = - \frac{\mu}{| \vec{x} |^2} \hat{x} \quad \mu = G M \quad \hat{x} = \frac{\vec{x}}{|\vec{x}|} $$
 This can "almost" be solved analytically and confirms Kepler's laws.
+
+---
+
+## Additional insights of Newton mechanics
+
+- Orbits always stay in a plane
+- Sum of kinetic energy and potential energy is a constant
+  $$ T + V = \text{const.} \quad T = \frac{1}{2}m \left| \frac{d\vec{x}}{dt} \right|^2 \quad V = - \frac{\mu}{|\vec{x}|} $$
+- When you know the location and velocity at a specific time the orbit is uniquely defined.
+- In addition to ellipses orbits can also be hyperbola and parabola (edge case)
