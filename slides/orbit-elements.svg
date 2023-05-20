@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="681.33606"
+   height="477.74249"
+   version="1.1"
+   id="svg394"
+   sodipodi:docname="orbit-parameters.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview396"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.054"
+     inkscape:cx="275.80331"
+     inkscape:cy="196.20253"
+     inkscape:window-width="3440"
+     inkscape:window-height="1403"
+     inkscape:window-x="2560"
+     inkscape:window-y="18"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg394" />
+  <defs
+     id="defs217">
+    <path
+       id="arrow"
+       d="M 0,0 -14,5 V -5 Z" />
+  </defs>
+  <path
+     fill="#f0f0a0"
+     stroke-width="1.89795"
+     d="M 239.90893,94.422012 A 147.47556,300.4667 44.51 0 0 361.02446,383.32048"
+     fill-opacity="0.6"
+     stroke="#000000"
+     id="path219" />
+  <ellipse
+     rx="300.46671"
+     fill="#d2d2d2"
+     ry="147.47556"
+     cx="300.46671"
+     cy="238.87123"
+     stroke="none"
+     id="ellipse221" />
+  <line
+     y2="254.10628"
+     stroke-width="1.15915"
+     x1="300.46671"
+     x2="620.1908"
+     stroke="#ff2020"
+     y1="238.87123"
+     id="line223" />
+  <use
+     transform="rotate(2.72811,-5025.6377,13149.842)"
+     fill="#ff2020"
+     xlink:href="#arrow"
+     id="use225" />
+  <path
+     fill="none"
+     stroke-width="2.48823"
+     d="m 328.94289,240.22815 a 28.61008,14.04245 0 1 0 -22.70996,12.39738"
+     stroke="#17ab34"
+     id="path227" />
+  <use
+     transform="rotate(2,-7083.3371,8898.3492)"
+     fill="#17ab34"
+     xlink:href="#arrow"
+     id="use229" />
+  <path
+     fill="#f0f0a0"
+     stroke-width="1.89795"
+     d="M 239.90893,94.422012 A 147.47556,300.4667 44.51 0 1 361.02446,383.32048"
+     fill-opacity="0.6"
+     stroke="#000000"
+     id="path231" />
+  <line
+     y2="31.809961"
+     stroke-width="1.15915"
+     x1="300.46671"
+     x2="517.52319"
+     y1="238.87123"
+     stroke="#3a20ff"
+     id="line233" />
+  <path
+     fill="none"
+     d="m 312.20435,266.86921 a 28.58455,58.23816 44.51 0 0 30.33347,-68.13176"
+     stroke-width="2.62202"
+     stroke="#6028ff"
+     id="path237" />
+  <use
+     transform="rotate(-106,246.14862,-29.691656)"
+     fill="#6028ff"
+     xlink:href="#arrow"
+     id="use239" />
+  <path
+     fill="none"
+     d="M 420.31294,374.10763 A 60,60 0 0 0 405.19089,342.70857"
+     stroke-width="2.10754"
+     stroke="#007d00"
+     id="path245" />
+  <use
+     transform="rotate(-123,295.63324,61.353931)"
+     fill="#007d00"
+     xlink:href="#arrow"
+     id="use247" />
+  <g
+     font-family="'Lucida Sans Unicode'"
+     id="g392"
+     transform="translate(122.4866,-16.067698)">
+    <g
+       font-size="18px"
+       id="g364">
+      <text
+         x="34.690323"
+         fill="#17ab34"
+         y="286.71426"
+         id="trsvg17"
+         style="text-align:center;text-anchor:middle"><tspan
+           sodipodi:role="line"
+           id="tspan1443"
+           x="34.690323"
+           y="286.71426"><tspan
+             id="trsvg1"
+             style="text-align:center;text-anchor:middle">Longitude of ascending node</tspan></tspan><tspan
+           sodipodi:role="line"
+           id="tspan1445"
+           x="34.690323"
+           y="309.21426">(LAN)</tspan></text>
+      <text
+         x="463.75601"
+         text-anchor="middle"
+         y="297.51266"
+         id="trsvg22"><tspan
+           sodipodi:role="line"
+           id="tspan442"
+           x="463.75601"
+           y="297.51266">Reference direction<tspan
+   x="463.75601"
+   id="trsvg7" /></tspan><tspan
+           sodipodi:role="line"
+           id="tspan444"
+           x="463.75601"
+           y="320.01266">(1st point of Aries)</tspan></text>
+      <text
+         x="254.02448"
+         fill="#6028ff"
+         y="214.59079"
+         id="trsvg18"><tspan
+           id="trsvg2">Argument of periapsis</tspan></text>
+      <text
+         x="299.25732"
+         fill="#007d00"
+         y="375.40591"
+         id="trsvg20"><tspan
+           id="trsvg4">Inclination</tspan></text>
+      <text
+         x="263.01614"
+         fill="#ec4040"
+         y="428.43304"
+         id="trsvg21"
+         style="text-align:center;text-anchor:middle;display:inline"><tspan
+           sodipodi:role="line"
+           id="tspan1436"
+           x="263.01614"
+           y="428.43304"><tspan
+             id="trsvg5"
+             style="text-align:center;text-anchor:middle">Ascending</tspan></tspan><tspan
+           sodipodi:role="line"
+           id="tspan1438"
+           x="263.01614"
+           y="450.93304"><tspan
+             id="tspan1440"
+             style="text-align:center;text-anchor:middle">node</tspan></tspan></text>
+      <text
+         x="102.10211"
+         y="367.927"
+         transform="rotate(8.5048218)"
+         id="trsvg24"
+         style="text-align:center;text-anchor:middle"><tspan
+           sodipodi:role="line"
+           id="tspan437"
+           x="102.10211"
+           y="367.927"><tspan
+             id="trsvg9"
+             style="text-align:center;text-anchor:middle">Reference plane</tspan></tspan><tspan
+           sodipodi:role="line"
+           id="tspan439"
+           x="102.10211"
+           y="390.427">(celestial equator)</tspan></text>
+      <text
+         x="-144.32684"
+         y="464.29181"
+         transform="rotate(-21.133941,2.2676405,-154.94021)"
+         id="trsvg25"><tspan
+           id="trsvg10">Orbit</tspan></text>
+      <text
+         x="76.409912"
+         fill="#ec4040"
+         y="86.741745"
+         id="text867"
+         style="text-align:center;text-anchor:middle;display:inline"><tspan
+           sodipodi:role="line"
+           id="tspan872"
+           x="76.409912"
+           y="86.741745">Decending</tspan><tspan
+           sodipodi:role="line"
+           x="76.409912"
+           y="109.24174"
+           id="tspan879">node</tspan></text>
+    </g>
+    <g
+       font-size="25px"
+       id="g390">
+      <text
+         x="120.31801"
+         fill="#17ab34"
+         y="261.79498"
+         id="trsvg26"><tspan
+           id="trsvg11">Ω</tspan></text>
+      <text
+         x="234.02448"
+         fill="#6028ff"
+         y="239.59079"
+         id="trsvg27"><tspan
+           id="trsvg12">ω</tspan></text>
+      <text
+         font-style="italic"
+         x="271.45889"
+         fill="#007d00"
+         y="389.56311"
+         id="trsvg29"><tspan
+           id="trsvg14">i</tspan></text>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="fill:#c5e5f5;stroke:#080003;stroke-width:1.00157;stroke-linejoin:bevel"
+     x="224.23048"
+     y="-33.864529"
+     id="text733"><tspan
+       sodipodi:role="line"
+       id="tspan731"
+       x="224.23048"
+       y="-33.864529" /></text>
+  <use
+     transform="rotate(-56.975582,486.95829,-281.74692)"
+     fill="#6028ff"
+     xlink:href="#arrow"
+     id="use2239"
+     style="fill:#000000;fill-opacity:1" />
+</svg>

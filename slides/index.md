@@ -12,5 +12,5 @@ Slides: https://github.com/untoldwind/tech-talk-kepler-orbits
 
 ---
 
-!!!include(orbital-parameters.md)!!!
+!!!include(orbital-elements.md)!!!
 
