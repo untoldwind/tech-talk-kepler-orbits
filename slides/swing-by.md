@@ -1,6 +1,3 @@
----
-marp: true
----
 
 ## Multi-body problem
 
