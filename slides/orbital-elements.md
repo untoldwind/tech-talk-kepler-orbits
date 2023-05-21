@@ -1,6 +1,3 @@
----
-marp: true
----
 
 ## Orbital elements
 
@@ -47,3 +44,11 @@ Hyperbolic: $e > 1$
 
 ---
 
+## Orbital elements
+
+- Eccentricity ($e$)
+- Semi majox axis ($a$)
+- Inclination ($i$)
+- Longitude of acending node ($\Omega$)
+- Argument of periapsis ($\omega$)
+- True anomaly ($\upsilon$) at epoch (reference time)

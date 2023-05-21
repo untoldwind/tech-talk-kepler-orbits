@@ -40,5 +40,7 @@ This can "almost" be solved analytically and confirms Kepler's laws.
 - Orbits always stay in a plane
 - Sum of kinetic energy and potential energy is a constant
   $$ T + V = \text{const.} \quad T = \frac{1}{2}m \left| \frac{d\vec{x}}{dt} \right|^2 \quad V = - \frac{\mu}{|\vec{x}|} $$
+- The angular momentum is also constant
+  $$ \vec{x} \times \frac{d \vec{x}}{dt} = \text{const.} $$
 - When you know the location and velocity at a specific time the orbit is uniquely defined.
 - In addition to ellipses orbits can also be hyperbola and parabola (edge case)

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="179.96965mm"
+   height="179.96951mm"
+   viewBox="0 0 179.96965 179.96951"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="soi.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.914906"
+     inkscape:cx="285.82171"
+     inkscape:cy="500.59787"
+     inkscape:window-width="2560"
+     inkscape:window-height="1421"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-7.6673512,-15.89497)">
+    <circle
+       style="fill:#000000;stroke-width:0.515472;stroke-linejoin:bevel;stroke-dasharray:0.515472, 0.515472"
+       id="path234"
+       cx="93.308228"
+       cy="103.49206"
+       r="8" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path236"
+       cx="74.506927"
+       cy="103.86816"
+       rx="52.952984"
+       ry="43.072292" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.505449;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path900"
+       cx="97.160248"
+       cy="142.39462"
+       r="4.2472754" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.336966;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path900-3"
+       cx="93.847794"
+       cy="157.36351"
+       r="2.831517" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path902"
+       cx="99.298607"
+       cy="142.12372"
+       rx="18.326649"
+       ry="16.344271" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linejoin:bevel;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0;stroke-opacity:1"
+       id="path926"
+       cx="97.6521"
+       cy="105.87965"
+       rx="89.734909"
+       ry="89.734917" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linejoin:bevel;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0;stroke-opacity:1"
+       id="path928"
+       cx="96.149063"
+       cy="142.88332"
+       rx="26.243599"
+       ry="26.244028" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linejoin:bevel;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0;stroke-opacity:1"
+       id="path930"
+       cx="93.817184"
+       cy="157.341"
+       rx="7.811573"
+       ry="7.811676" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="92.953705"
+       y="93.018532"
+       id="text986"><tspan
+         sodipodi:role="line"
+         id="tspan984"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none"
+         x="92.953705"
+         y="93.018532">Sun</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="96.694557"
+       y="134.92195"
+       id="text990"><tspan
+         sodipodi:role="line"
+         id="tspan988"
+         style="stroke-width:0.5"
+         x="96.694557"
+         y="134.92195">Earth</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="102.47176"
+       y="163.9491"
+       id="text1044"><tspan
+         sodipodi:role="line"
+         id="tspan1042"
+         style="stroke-width:0.5"
+         x="102.47176"
+         y="163.9491">Moon</tspan></text>
+  </g>
+</svg>

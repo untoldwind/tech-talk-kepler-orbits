@@ -14,3 +14,10 @@ Slides: https://github.com/untoldwind/tech-talk-kepler-orbits
 
 !!!include(orbital-elements.md)!!!
 
+---
+
+!!!include(lambert.md)!!!
+
+---
+
+!!!include(swing-by.md)!!!
