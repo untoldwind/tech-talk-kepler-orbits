@@ -21,3 +21,12 @@ Slides: https://github.com/untoldwind/tech-talk-kepler-orbits
 ---
 
 !!!include(swing-by.md)!!!
+
+---
+
+Some links of interest:
+
+- https://numpy.org/
+- https://scipy.org/
+- https://github.com/esa/pykep
+- https://github.com/esa/pygmo2
